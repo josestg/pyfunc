@@ -7,4 +7,4 @@ Functional Programming with Python.
 
 > ⚠️ This project is for learning purposes only, for production use please check library X.
 
-See APIs docs here.
+See APIs docs [here](https://josestg.github.io/pyfunc/).
